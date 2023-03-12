@@ -1,1 +1,1 @@
-# Dinamica_de_Estructuras
+# Dinamica de Estructuras
